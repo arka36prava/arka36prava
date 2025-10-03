@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Arkaprava Mondal</h1>
-<img align='right' alt='coding' width='400' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-animated-icon%2Fcoding_10971780&psig=AOvVaw1fMFzT-hf1-5XiQOfIAASm&ust=1759576752846000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJCA_LD0h5ADFQAAAAAdAAAAABAL'>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/userupload/21995470/file/original-14a355a456bd14d556fe5487e17e329e.gif">
+
 <h3 align="center">A passionate full-Stack developer from India & a cyber-security enthusiast too</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arka36prava&label=Profile%20views&color=0e75b6&style=flat" alt="arka36prava" /> </p>
 
-- 🔭 I’m currently working on **DSA**
+### 👨‍💻 MERN Stack Developer  
+🎓 3rd Year B.Tech (CSE) Student at IIIT Ranchi  
+🧱 Focused on Building Full-Stack Web Apps with 🟨 JavaScript, ⚛ React, 🚂 Express & 🍃 MongoDB  
+🔍 Always Exploring | 🛠 Always Building
 
-- 🌱 I’m currently learning **NEXT JS**
 
-- 💬 Ask me about **React, NODE JS ,EXPRESS JS,MONGODB,N-MAP ,WIRESHARK**
+- 🌱 I’m currently learning Nextjs
+
+- 💬 Ask me about react,nodejs,express,mongoDB,JavaScript
+- 💬 Ask me about DSA and Cyber-Security
+
 
 - 📫 How to reach me **educationarkapravamondal1@gmail.com**
 
